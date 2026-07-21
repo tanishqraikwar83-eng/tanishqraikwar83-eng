@@ -78,4 +78,4 @@ Currently deep in Python, exploring core data science fundamentals, and building
   <img src="https://komarev.com/ghpvc/?username=tanishqraikwar83-eng&icon=0&color=1" alt="Profile Views"/>
 </p>
 
-<p align="center"><i>Built with ❤️ using GPRM (https://gprm.itsvg.in)</i></p>
+<p align="center"><i>Built with using GPRM (https://gprm.itsvg.in)</i></p>
