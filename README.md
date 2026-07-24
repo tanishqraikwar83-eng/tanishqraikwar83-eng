@@ -1,81 +1,87 @@
-<h1 align="center">Hi, I'm Tanishq Raikwar 👋</h1>
+<div align="center">
 
-<h3 align="center">AI/ML/DS Enthusiast | College Student</h3>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:1565C0,100:6C63FF&height=180&section=header&text=Tanishq%20Raikwar&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20%2F%20DS%20Enthusiast&descAlignY=58&descSize=18&descColor=ffffffcc)
 
-<p align="center">
-I like understanding how things actually work under the hood — not just implementing high-level solutions.
-I believe in deconstructing logic: reading the internals, not just calling the API.
-Currently deep in Python, exploring core data science fundamentals, and building a strong foundation in C++.
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Learning+how+things+work+under+the+hood;Python+%2B+C%2B%2B+%2B+Data+Science;Deconstructing+logic%2C+not+just+using+it;Always+building%2C+always+learning)](https://git.io/typing-svg)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tanishqraikwar737489393/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/mr_tanishq_raikwar/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://github.com/tanishqraikwar83-eng" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishqraikwar737489393/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/mr_tanishq_raikwar/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tanishqraikwar83-eng)
+![Profile Views](https://komarev.com/ghpvc/?username=tanishqraikwar83-eng&style=flat-square&color=6C63FF&label=views)
+
+</div>
 
 ---
 
-## 💻 Tech Stack
+I'm a college student focused on AI, ML, and Data Science. I like understanding how things actually work under the hood, rather than just implementing high-level solutions. I believe in deconstructing logic — reading the internals, not just calling the API.
+
+Currently deep in Python, working through core data science fundamentals, and building a strong foundation in C++.
+
+---
+
+## Tech Stack
 
 **Languages**
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 **Frameworks & Libraries**
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logoColor=white)
 
 **Databases & Tools**
-![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 **Design**
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-%23000000.svg?style=for-the-badge&logo=framer&logoColor=white)
-![Storybook](https://img.shields.io/badge/-Storybook-%23FF4785.svg?style=for-the-badge&logo=storybook&logoColor=white)
+
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-000000?style=flat-square&logo=framer&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats & Contributions
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tanishqraikwar83-eng&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false" alt="Tanishq's GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqraikwar83-eng&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=tanishqraikwar83-eng&theme=blue_navy&hide_border=false" alt="GitHub Streak"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=tanishqraikwar83-eng&show_icons=true&theme=github_dark&count_private=true&hide_border=true&card_width=400" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqraikwar83-eng&layout=compact&theme=github_dark&hide_border=true&card_width=400" height="160"/>
 
-## 🏆 GitHub Trophies
+<img src="https://streak-stats.demolab.com?user=tanishqraikwar83-eng&theme=github-dark-blue&hide_border=true&card_width=820"/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tanishqraikwar83-eng&theme=blue_navy&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</p>
+<br/>
 
-## 🔝 Top Contributed Repo
+[![Trophy](https://github-profile-trophy.vercel.app/?username=tanishqraikwar83-eng&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=4)](https://github.com/tanishqraikwar83-eng)
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=tanishqraikwar83-eng&limit=5&theme=blue_navy&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
-</p>
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanishqraikwar83-eng&bg_color=0d1117&color=6C63FF&line=0D47A1&point=6C63FF&area=true&hide_border=true" width="100%"/>
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tanishqraikwar83-eng&icon=0&color=1" alt="Profile Views"/>
-</p>
+<div align="center">
 
-<p align="center"><i>Built with using GPRM (https://gprm.itsvg.in)</i></p>
+*"Talk is cheap. Show me the code."*
+**— Linus Torvalds**
+
+</div>
+
+---
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:0D47A1&height=100&section=footer)
+
+</div>
