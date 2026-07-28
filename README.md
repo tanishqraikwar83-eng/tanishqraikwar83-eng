@@ -73,8 +73,8 @@ Currently deep in Python, working through core data science fundamentals, and bu
 
 <div align="center">
 
-*"Talk is cheap. Show me the code."*
-**— Linus Torvalds**
+*"What I cannot create, I do not understand."*
+**— "Richard Feynman*
 
 </div>
 
