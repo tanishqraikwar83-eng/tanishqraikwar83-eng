@@ -15,7 +15,7 @@
 
 I'm a college student focused on AI, ML, and Data Science. I like understanding how things actually work under the hood, rather than just implementing high-level solutions. I believe in deconstructing logic — reading the internals, not just calling the API.
 
-Currently deep in Python, working through core data science fundamentals, and building a strong foundation in python libraries.
+Currently deep in Python, working through core data science fundamentals, and building a strong foundation in python libraries.Also dealing with ai agents
 
 ---
 
